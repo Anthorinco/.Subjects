@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Anthoni",
+    "age": 17,
+    "isHot": true
+  },
+  {
+    "name": "Carvalho",
+    "age": 71,
+    "isHot": false
+  },
+  {
+    "name": "Silva",
+    "age": 67,
+    "isHot": true
+  },
+  {
+    "name": "Da",
+    "age": 0,
+    "isHot": false
+  }
+]
